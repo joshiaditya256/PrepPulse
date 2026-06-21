@@ -86,11 +86,11 @@ function Step1SetUp({ onStart }) {
                     className='relative bg-gradient-to-br from-green-50 to-green-100 p-12 flex flex-col justify-center'>
 
                     <h2 className="text-4xl font-bold text-gray-800 mb-6">
-                        Start Your AI Interview
+                        Start Your Interview
                     </h2>
 
                     <p className="text-gray-600 mb-10">
-                        Practice real interview scenarios powered by AI.
+                        Practice real interview scenarios.
                         Improve communication, technical skills, and confidence.
                     </p>
 

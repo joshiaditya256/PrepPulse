@@ -67,7 +67,7 @@ function Step3Report({ report }) {
   doc.setFont("helvetica", "bold");
   doc.setFontSize(20);
   doc.setTextColor(34, 197, 94);
-  doc.text("AI Interview Performance Report", pageWidth / 2, currentY, {
+  doc.text(" Interview Performance Report", pageWidth / 2, currentY, {
     align: "center",
   });
 

@@ -48,7 +48,7 @@ function Auth({isModel = false}) {
                     <BsRobot size={18}/>
 
                 </div>
-                <h2 className='font-semibold text-lg'>Interview.AI</h2>
+                <h2 className='font-semibold text-lg'>PrepPulse</h2>
             </div>
 
             <h1 className='text-2xl md:text-3xl font-semibold text-center leading-snug mb-4'>
@@ -61,7 +61,7 @@ function Auth({isModel = false}) {
             </h1>
 
             <p className='text-gray-500 text-center text-sm md:text-base leading-relaxed mb-8'>
-                Sign in to start AI-powered mock interviews,
+                Sign in to start mock interviews,
         track your progress, and unlock detailed performance insights.
             </p>
 
