@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const ServerUrl  = "https://preppulse-backend-hlfb.onrender.com"
+export const ServerUrl  = "https://preppulse-backend-qa5x.onrender.com"
 
 function App() {
 
