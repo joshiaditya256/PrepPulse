@@ -111,7 +111,7 @@ function Home() {
                   icon: <BsRobot size={24} />,
                   step: "STEP 1",
                   title: "Role & Experience Selection",
-                  desc: "AI adjusts difficulty based on selected job role."
+                  desc: "Adjustable difficulty based on selected job role."
                 },
                 {
                   icon: <BsMic size={24} />,
@@ -162,7 +162,7 @@ function Home() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
               className='text-4xl font-semibold text-center mb-16'>
-              Advanced AI{" "}
+              Advanced {" "}
               <span className="text-green-600">Capabilities</span>
 
             </motion.h2>
@@ -173,7 +173,7 @@ function Home() {
                   {
                     image: evalImg,
                     icon: <BsBarChart size={20} />,
-                    title: "AI Answer Evaluation",
+                    title: "Answer Evaluation",
                     desc: "Scores communication, technical accuracy and confidence."
                   },
                   {
